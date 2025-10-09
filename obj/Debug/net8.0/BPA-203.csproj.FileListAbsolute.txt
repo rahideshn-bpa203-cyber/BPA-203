@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\BPA-203\bin\Debug\net8.0\BPA-203.exe
+C:\Users\asus\Desktop\BPA-203\bin\Debug\net8.0\BPA-203.deps.json
+C:\Users\asus\Desktop\BPA-203\bin\Debug\net8.0\BPA-203.runtimeconfig.json
+C:\Users\asus\Desktop\BPA-203\bin\Debug\net8.0\BPA-203.dll
+C:\Users\asus\Desktop\BPA-203\bin\Debug\net8.0\BPA-203.pdb
+C:\Users\asus\Desktop\BPA-203\obj\Debug\net8.0\BPA-203.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\BPA-203\obj\Debug\net8.0\BPA-203.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\BPA-203\obj\Debug\net8.0\BPA-203.AssemblyInfo.cs
+C:\Users\asus\Desktop\BPA-203\obj\Debug\net8.0\BPA-203.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\BPA-203\obj\Debug\net8.0\BPA-203.sourcelink.json
+C:\Users\asus\Desktop\BPA-203\obj\Debug\net8.0\BPA-203.dll
+C:\Users\asus\Desktop\BPA-203\obj\Debug\net8.0\refint\BPA-203.dll
+C:\Users\asus\Desktop\BPA-203\obj\Debug\net8.0\BPA-203.pdb
+C:\Users\asus\Desktop\BPA-203\obj\Debug\net8.0\BPA-203.genruntimeconfig.cache
+C:\Users\asus\Desktop\BPA-203\obj\Debug\net8.0\ref\BPA-203.dll
