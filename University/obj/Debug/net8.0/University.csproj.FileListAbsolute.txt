@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\University\bin\Debug\net8.0\University.exe
+C:\Users\asus\Desktop\University\bin\Debug\net8.0\University.deps.json
+C:\Users\asus\Desktop\University\bin\Debug\net8.0\University.runtimeconfig.json
+C:\Users\asus\Desktop\University\bin\Debug\net8.0\University.dll
+C:\Users\asus\Desktop\University\bin\Debug\net8.0\University.pdb
+C:\Users\asus\Desktop\University\obj\Debug\net8.0\University.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\obj\Debug\net8.0\University.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\obj\Debug\net8.0\University.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\obj\Debug\net8.0\University.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\obj\Debug\net8.0\University.dll
+C:\Users\asus\Desktop\University\obj\Debug\net8.0\refint\University.dll
+C:\Users\asus\Desktop\University\obj\Debug\net8.0\University.pdb
+C:\Users\asus\Desktop\University\obj\Debug\net8.0\University.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\obj\Debug\net8.0\ref\University.dll
