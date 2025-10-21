@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\String, StrinBuilder, Mutable, Immutable\obj\Debug\net8.0\String, StrinBuilder, Mutable, Immutable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\String, StrinBuilder, Mutable, Immutable\obj\Debug\net8.0\String, StrinBuilder, Mutable, Immutable.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\String, StrinBuilder, Mutable, Immutable\obj\Debug\net8.0\String, StrinBuilder, Mutable, Immutable.AssemblyInfo.cs
+C:\Users\asus\Desktop\String, StrinBuilder, Mutable, Immutable\obj\Debug\net8.0\String, StrinBuilder, Mutable, Immutable.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\String, StrinBuilder, Mutable, Immutable\bin\Debug\net8.0\String, StrinBuilder, Mutable, Immutable.exe
+C:\Users\asus\Desktop\String, StrinBuilder, Mutable, Immutable\bin\Debug\net8.0\String, StrinBuilder, Mutable, Immutable.deps.json
+C:\Users\asus\Desktop\String, StrinBuilder, Mutable, Immutable\bin\Debug\net8.0\String, StrinBuilder, Mutable, Immutable.runtimeconfig.json
+C:\Users\asus\Desktop\String, StrinBuilder, Mutable, Immutable\bin\Debug\net8.0\String, StrinBuilder, Mutable, Immutable.dll
+C:\Users\asus\Desktop\String, StrinBuilder, Mutable, Immutable\bin\Debug\net8.0\String, StrinBuilder, Mutable, Immutable.pdb
+C:\Users\asus\Desktop\String, StrinBuilder, Mutable, Immutable\obj\Debug\net8.0\String, StrinBuilder, Mutable, Immutable.dll
+C:\Users\asus\Desktop\String, StrinBuilder, Mutable, Immutable\obj\Debug\net8.0\refint\String, StrinBuilder, Mutable, Immutable.dll
+C:\Users\asus\Desktop\String, StrinBuilder, Mutable, Immutable\obj\Debug\net8.0\String, StrinBuilder, Mutable, Immutable.pdb
+C:\Users\asus\Desktop\String, StrinBuilder, Mutable, Immutable\obj\Debug\net8.0\String, StrinBuilder, Mutable, Immutable.genruntimeconfig.cache
+C:\Users\asus\Desktop\String, StrinBuilder, Mutable, Immutable\obj\Debug\net8.0\ref\String, StrinBuilder, Mutable, Immutable.dll
