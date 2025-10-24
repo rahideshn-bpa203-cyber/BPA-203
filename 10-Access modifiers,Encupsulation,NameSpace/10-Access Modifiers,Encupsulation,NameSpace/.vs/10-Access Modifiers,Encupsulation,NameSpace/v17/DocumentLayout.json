@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\BPA-203\\10-Access modifiers,Encupsulation,NameSpace\\10-Access Modifiers,Encupsulation,NameSpace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4006F50-38CB-4AE4-B5C7-A8DA99AFD576}|10-Access Modifiers,Encupsulation,NameSpace.csproj|c:\\users\\asus\\desktop\\bpa-203\\10-access modifiers,encupsulation,namespace\\10-access modifiers,encupsulation,namespace\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4006F50-38CB-4AE4-B5C7-A8DA99AFD576}|10-Access Modifiers,Encupsulation,NameSpace.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4006F50-38CB-4AE4-B5C7-A8DA99AFD576}|10-Access Modifiers,Encupsulation,NameSpace.csproj|c:\\users\\asus\\desktop\\bpa-203\\10-access modifiers,encupsulation,namespace\\10-access modifiers,encupsulation,namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4006F50-38CB-4AE4-B5C7-A8DA99AFD576}|10-Access Modifiers,Encupsulation,NameSpace.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4006F50-38CB-4AE4-B5C7-A8DA99AFD576}|10-Access Modifiers,Encupsulation,NameSpace.csproj|c:\\users\\asus\\desktop\\bpa-203\\10-access modifiers,encupsulation,namespace\\10-access modifiers,encupsulation,namespace\\10-access modifiers,encupsulation,namespace.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4006F50-38CB-4AE4-B5C7-A8DA99AFD576}|10-Access Modifiers,Encupsulation,NameSpace.csproj|solutionrelative:10-access modifiers,encupsulation,namespace.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\BPA-203\\10-Access modifiers,Encupsulation,NameSpace\\10-Access Modifiers,Encupsulation,NameSpace\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\BPA-203\\10-Access modifiers,Encupsulation,NameSpace\\10-Access Modifiers,Encupsulation,NameSpace\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:37:00.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "10-Access Modifiers,Encupsulation,NameSpace.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\BPA-203\\10-Access modifiers,Encupsulation,NameSpace\\10-Access Modifiers,Encupsulation,NameSpace\\10-Access Modifiers,Encupsulation,NameSpace.csproj",
+              "RelativeDocumentMoniker": "10-Access Modifiers,Encupsulation,NameSpace.csproj",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\BPA-203\\10-Access modifiers,Encupsulation,NameSpace\\10-Access Modifiers,Encupsulation,NameSpace\\10-Access Modifiers,Encupsulation,NameSpace.csproj",
+              "RelativeToolTip": "10-Access Modifiers,Encupsulation,NameSpace.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T03:51:12.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\BPA-203\\10-Access modifiers,Encupsulation,NameSpace\\10-Access Modifiers,Encupsulation,NameSpace\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\BPA-203\\10-Access modifiers,Encupsulation,NameSpace\\10-Access Modifiers,Encupsulation,NameSpace\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T03:49:57.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
