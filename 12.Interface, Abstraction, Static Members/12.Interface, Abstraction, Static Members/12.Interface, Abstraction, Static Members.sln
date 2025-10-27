@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Interface, Abstraction, Static Members", "12.Interface, Abstraction, Static Members.csproj", "{6B6EACB4-32CF-4946-BD08-3652EF45D300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B6EACB4-32CF-4946-BD08-3652EF45D300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6EACB4-32CF-4946-BD08-3652EF45D300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6EACB4-32CF-4946-BD08-3652EF45D300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6EACB4-32CF-4946-BD08-3652EF45D300}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5C8B03C-4698-429A-9044-E3931C5A32FF}
+	EndGlobalSection
+EndGlobal

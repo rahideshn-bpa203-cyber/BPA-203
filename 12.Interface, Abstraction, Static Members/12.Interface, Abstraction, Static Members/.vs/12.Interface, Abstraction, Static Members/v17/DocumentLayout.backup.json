@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\12.Interface, Abstraction, Static Members\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6EACB4-32CF-4946-BD08-3652EF45D300}|12.Interface, Abstraction, Static Members.csproj|c:\\users\\asus\\desktop\\12.interface, abstraction, static members\\icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6EACB4-32CF-4946-BD08-3652EF45D300}|12.Interface, Abstraction, Static Members.csproj|solutionrelative:icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6EACB4-32CF-4946-BD08-3652EF45D300}|12.Interface, Abstraction, Static Members.csproj|c:\\users\\asus\\desktop\\12.interface, abstraction, static members\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6EACB4-32CF-4946-BD08-3652EF45D300}|12.Interface, Abstraction, Static Members.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6EACB4-32CF-4946-BD08-3652EF45D300}|12.Interface, Abstraction, Static Members.csproj|c:\\users\\asus\\desktop\\12.interface, abstraction, static members\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6EACB4-32CF-4946-BD08-3652EF45D300}|12.Interface, Abstraction, Static Members.csproj|solutionrelative:calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\12.Interface, Abstraction, Static Members\\Calculate.cs",
+              "RelativeDocumentMoniker": "Calculate.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\12.Interface, Abstraction, Static Members\\Calculate.cs",
+              "RelativeToolTip": "Calculate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:48:09.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICalculation.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\12.Interface, Abstraction, Static Members\\ICalculation.cs",
+              "RelativeDocumentMoniker": "ICalculation.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\12.Interface, Abstraction, Static Members\\ICalculation.cs",
+              "RelativeToolTip": "ICalculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:28:54.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\12.Interface, Abstraction, Static Members\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\12.Interface, Abstraction, Static Members\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:25:14.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
