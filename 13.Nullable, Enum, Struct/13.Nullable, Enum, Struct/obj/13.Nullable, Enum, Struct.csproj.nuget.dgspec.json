@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\Desktop\\BPA-203\\11-Abstract class, Polymorphism, ForEach\\11-Abstract class, Polymorphism, ForEach - Copy\\11-Abstract class, Polymorphism, ForEach.csproj": {}
+    "C:\\Users\\asus\\Desktop\\13.Nullable, Enum, Struct\\13.Nullable, Enum, Struct.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\Desktop\\BPA-203\\11-Abstract class, Polymorphism, ForEach\\11-Abstract class, Polymorphism, ForEach - Copy\\11-Abstract class, Polymorphism, ForEach.csproj": {
+    "C:\\Users\\asus\\Desktop\\13.Nullable, Enum, Struct\\13.Nullable, Enum, Struct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\Desktop\\BPA-203\\11-Abstract class, Polymorphism, ForEach\\11-Abstract class, Polymorphism, ForEach - Copy\\11-Abstract class, Polymorphism, ForEach.csproj",
-        "projectName": "11-Abstract class, Polymorphism, ForEach",
-        "projectPath": "C:\\Users\\asus\\Desktop\\BPA-203\\11-Abstract class, Polymorphism, ForEach\\11-Abstract class, Polymorphism, ForEach - Copy\\11-Abstract class, Polymorphism, ForEach.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Desktop\\13.Nullable, Enum, Struct\\13.Nullable, Enum, Struct.csproj",
+        "projectName": "13.Nullable, Enum, Struct",
+        "projectPath": "C:\\Users\\asus\\Desktop\\13.Nullable, Enum, Struct\\13.Nullable, Enum, Struct.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\Desktop\\BPA-203\\11-Abstract class, Polymorphism, ForEach\\11-Abstract class, Polymorphism, ForEach - Copy\\obj\\",
+        "outputPath": "C:\\Users\\asus\\Desktop\\13.Nullable, Enum, Struct\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
