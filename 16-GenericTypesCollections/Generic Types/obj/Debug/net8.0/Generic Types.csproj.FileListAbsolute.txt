@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\Generic Types\bin\Debug\net8.0\Generic Types.exe
+C:\Users\asus\Desktop\Generic Types\bin\Debug\net8.0\Generic Types.deps.json
+C:\Users\asus\Desktop\Generic Types\bin\Debug\net8.0\Generic Types.runtimeconfig.json
+C:\Users\asus\Desktop\Generic Types\bin\Debug\net8.0\Generic Types.dll
+C:\Users\asus\Desktop\Generic Types\bin\Debug\net8.0\Generic Types.pdb
+C:\Users\asus\Desktop\Generic Types\obj\Debug\net8.0\Generic Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Generic Types\obj\Debug\net8.0\Generic Types.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Generic Types\obj\Debug\net8.0\Generic Types.AssemblyInfo.cs
+C:\Users\asus\Desktop\Generic Types\obj\Debug\net8.0\Generic Types.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Generic Types\obj\Debug\net8.0\Generic Types.dll
+C:\Users\asus\Desktop\Generic Types\obj\Debug\net8.0\refint\Generic Types.dll
+C:\Users\asus\Desktop\Generic Types\obj\Debug\net8.0\Generic Types.pdb
+C:\Users\asus\Desktop\Generic Types\obj\Debug\net8.0\Generic Types.genruntimeconfig.cache
+C:\Users\asus\Desktop\Generic Types\obj\Debug\net8.0\ref\Generic Types.dll
