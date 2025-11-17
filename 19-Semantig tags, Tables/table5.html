@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Table in HTML</title>
+<style>
+ 
+  table {
+    width: 100%;
+    
+    border: 2px solid green; 
+    border-collapse: collapse; 
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    margin: 20px 0;
+  }
+
+  th, td {
+    
+    border: 1px solid green; 
+    padding: 15px 5px; 
+    text-align: center;
+    height: 60px;
+    font-weight: bold;
+  }
+</style>
+</head>
+<body>
+
+  <h1>Table in HTML</h1>
+
+  <table>
+    <tr>
+      <td rowspan="2">A</td>
+      <td>B</td>
+      <td rowspan="2" colspan="2">D</td>
+      <td colspan="3">E</td>
+      <td rowspan="2">F</td>
+    </tr>
+
+    <tr>
+      <td>C</td>
+      <td>G</td>
+      <td>H</td>
+      <td>I</td>
+      </tr>
+
+    <tr>
+      <td colspan="2">J</td>
+      <td colspan="2">K</td>
+      <td colspan="2">L</td>
+      <td colspan="2">M</td>
+    </tr>
+  </table>
+
+</body>
+</html>

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\17.Directory,StreamReader\\",
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\17.Directory,StreamReader\\17.Directory,StreamReader\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E3D2713-9C7B-41E2-822C-9EA66C669EAA}|17.Directory,StreamReader.csproj|c:\\users\\asus\\desktop\\17.directory,streamreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E3D2713-9C7B-41E2-822C-9EA66C669EAA}|17.Directory,StreamReader.csproj|c:\\users\\asus\\onedrive\\desktop\\bpa-203\\17.directory,streamreader\\17.directory,streamreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E3D2713-9C7B-41E2-822C-9EA66C669EAA}|17.Directory,StreamReader.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\17.Directory,StreamReader\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\17.Directory,StreamReader\\17.Directory,StreamReader\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\17.Directory,StreamReader\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\17.Directory,StreamReader\\17.Directory,StreamReader\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T09:52:15.439Z",
               "EditorCaption": ""

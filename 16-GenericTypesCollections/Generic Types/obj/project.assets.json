@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\Desktop\\Generic Types\\Generic Types.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\16-GenericTypesCollections\\Generic Types\\Generic Types.csproj",
       "projectName": "Generic Types",
-      "projectPath": "C:\\Users\\asus\\Desktop\\Generic Types\\Generic Types.csproj",
+      "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\16-GenericTypesCollections\\Generic Types\\Generic Types.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\Desktop\\Generic Types\\obj\\",
+      "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\16-GenericTypesCollections\\Generic Types\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

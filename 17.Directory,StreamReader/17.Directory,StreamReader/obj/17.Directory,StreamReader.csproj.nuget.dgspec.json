@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\Desktop\\17.Directory,StreamReader\\17.Directory,StreamReader.csproj": {}
+    "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\17.Directory,StreamReader\\17.Directory,StreamReader\\17.Directory,StreamReader.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\Desktop\\17.Directory,StreamReader\\17.Directory,StreamReader.csproj": {
+    "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\17.Directory,StreamReader\\17.Directory,StreamReader\\17.Directory,StreamReader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\Desktop\\17.Directory,StreamReader\\17.Directory,StreamReader.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\17.Directory,StreamReader\\17.Directory,StreamReader\\17.Directory,StreamReader.csproj",
         "projectName": "17.Directory,StreamReader",
-        "projectPath": "C:\\Users\\asus\\Desktop\\17.Directory,StreamReader\\17.Directory,StreamReader.csproj",
+        "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\17.Directory,StreamReader\\17.Directory,StreamReader\\17.Directory,StreamReader.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\Desktop\\17.Directory,StreamReader\\obj\\",
+        "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\17.Directory,StreamReader\\17.Directory,StreamReader\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
