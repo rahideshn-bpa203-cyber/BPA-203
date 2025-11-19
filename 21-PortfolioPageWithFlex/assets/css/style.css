@@ -1,0 +1,62 @@
+
+
+#header_area{
+    background-color:#2c3e50;
+   height:104px;
+}
+.navbar{
+    height:100%;;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.list{
+    display:flex;
+   gap:30px;
+
+}
+.list_item a{
+    text-transform: uppercase;
+}
+.list_item a:hover{
+    color:aquamarine;
+}
+#start_area{
+    background-color: aqua;
+    height:700px;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+}
+.start{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:40px;
+}
+.start_head{
+    text-transform:uppercase;
+    font-size:50px;
+}
+.logo{
+    text-transform: uppercase;
+    font-size:30px;
+}
+.start_text{
+    font-size: 1.25rem;
+}
+.star{
+    display:flex;
+    gap:10px;
+}
+.image{
+    width:240px;
+    height:255px;
+}
+.left_line,.right_line{
+    width:100px;
+    height:3px;
+    background-color:white;
+}
+
+ 

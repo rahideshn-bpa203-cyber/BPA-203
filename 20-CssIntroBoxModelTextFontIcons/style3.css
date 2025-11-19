@@ -1,8 +1,13 @@
 body {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
     background: #eee5d4;
     font-family: "Playfair Display", serif;
+    /* background-image: url(https://th.bing.com/th/id/R.d7a86a95128c3049136158ce8fd2adec?rik=rKpdR1NJ%2f0MLFA&riu=http%3a%2f%2fjonathanlepapillon.j.o.pic.centerblog.net%2fo%2f2e9364ac.jpg&ehk=QpZf%2fnuMwcyS9dZS2PoFN26%2bkEtPcghMsqpVL0dAzVc%3d&risl=&pid=ImgRaw&r=0); */
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
 }
 
 .container {
