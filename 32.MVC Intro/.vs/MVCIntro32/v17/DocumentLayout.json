@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98628EE6-0FFD-499B-829F-8E933D0A53C4}|MVCIntro32.csproj|c:\\users\\asus\\onedrive\\desktop\\bpa-203\\mvcintro32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98628EE6-0FFD-499B-829F-8E933D0A53C4}|MVCIntro32.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98628EE6-0FFD-499B-829F-8E933D0A53C4}|MVCIntro32.csproj|c:\\users\\asus\\onedrive\\desktop\\bpa-203\\mvcintro32\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98628EE6-0FFD-499B-829F-8E933D0A53C4}|MVCIntro32.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98628EE6-0FFD-499B-829F-8E933D0A53C4}|MVCIntro32.csproj|c:\\users\\asus\\onedrive\\desktop\\bpa-203\\mvcintro32\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98628EE6-0FFD-499B-829F-8E933D0A53C4}|MVCIntro32.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98628EE6-0FFD-499B-829F-8E933D0A53C4}|MVCIntro32.csproj|c:\\users\\asus\\onedrive\\desktop\\bpa-203\\mvcintro32\\views\\shared\\_chrislayout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98628EE6-0FFD-499B-829F-8E933D0A53C4}|MVCIntro32.csproj|solutionrelative:views\\shared\\_chrislayout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98628EE6-0FFD-499B-829F-8E933D0A53C4}|MVCIntro32.csproj|c:\\users\\asus\\onedrive\\desktop\\bpa-203\\mvcintro32\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98628EE6-0FFD-499B-829F-8E933D0A53C4}|MVCIntro32.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98628EE6-0FFD-499B-829F-8E933D0A53C4}|MVCIntro32.csproj|c:\\users\\asus\\onedrive\\desktop\\bpa-203\\mvcintro32\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98628EE6-0FFD-499B-829F-8E933D0A53C4}|MVCIntro32.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98628EE6-0FFD-499B-829F-8E933D0A53C4}|MVCIntro32.csproj|c:\\users\\asus\\onedrive\\desktop\\bpa-203\\mvcintro32\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98628EE6-0FFD-499B-829F-8E933D0A53C4}|MVCIntro32.csproj|solutionrelative:views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98628EE6-0FFD-499B-829F-8E933D0A53C4}|MVCIntro32.csproj|c:\\users\\asus\\onedrive\\desktop\\bpa-203\\mvcintro32\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98628EE6-0FFD-499B-829F-8E933D0A53C4}|MVCIntro32.csproj|solutionrelative:views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98628EE6-0FFD-499B-829F-8E933D0A53C4}|MVCIntro32.csproj|c:\\users\\asus\\onedrive\\desktop\\bpa-203\\mvcintro32\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98628EE6-0FFD-499B-829F-8E933D0A53C4}|MVCIntro32.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98628EE6-0FFD-499B-829F-8E933D0A53C4}|MVCIntro32.csproj|c:\\users\\asus\\onedrive\\desktop\\bpa-203\\mvcintro32\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98628EE6-0FFD-499B-829F-8E933D0A53C4}|MVCIntro32.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T08:38:55.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T08:33:20.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T08:32:41.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ChrisLayout1.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\Views\\Shared\\_ChrisLayout1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ChrisLayout1.cshtml",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\Views\\Shared\\_ChrisLayout1.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ChrisLayout1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T08:32:22.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T08:31:17.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "error.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\Views\\Home\\error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\error.cshtml",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\Views\\Home\\error.cshtml",
+              "RelativeToolTip": "Views\\Home\\error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T08:30:40.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\Views\\Home\\detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\detail.cshtml",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\Views\\Home\\detail.cshtml",
+              "RelativeToolTip": "Views\\Home\\detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T08:30:19.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T08:28:55.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T08:26:53.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\MVCIntro32\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T08:26:30.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
