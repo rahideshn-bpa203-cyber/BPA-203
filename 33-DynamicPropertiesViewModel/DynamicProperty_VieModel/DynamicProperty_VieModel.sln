@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProperty_VieModel", "DynamicProperty_VieModel.csproj", "{FD1092A5-03BB-4A20-AB22-5234C38F0BD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD1092A5-03BB-4A20-AB22-5234C38F0BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1092A5-03BB-4A20-AB22-5234C38F0BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1092A5-03BB-4A20-AB22-5234C38F0BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1092A5-03BB-4A20-AB22-5234C38F0BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24D4946C-0447-41F4-B483-F8A5825FE541}
+	EndGlobalSection
+EndGlobal

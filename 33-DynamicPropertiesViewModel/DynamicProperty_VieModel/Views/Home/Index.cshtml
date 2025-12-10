@@ -1,0 +1,36 @@
+﻿@using DynamicProperty_VieModel.Models
+@using DynamicProperty_VieModel.ViewModels
+@model HomeVM
+<h1>Home Page</h1>
+@* @TempData["Name"] *@
+
+
+
+<ul>
+    @foreach (Student student in Model.Students)
+    {
+       <li>@student.Id @student.Name  @student.Age</li>
+    }
+</ul>
+<table class="table" border="1">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Salary</th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Teacher teacher in Model.Teachers)
+        {
+            <tr>
+                <th>@teacher.Id</th>
+                <td>@teacher.Name</td>
+                <td>@teacher.Salary</td>
+                
+            </tr>
+        }
+
+    </tbody>
+</table>
