@@ -1,74 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\",
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\35.ServiceLifeTime, AppSetting, Product\\ProniaBpa203\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|c:\\users\\asus\\desktop\\proniabpa203\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\35.ServiceLifeTime, AppSetting, Product\\ProniaBpa203\\Migrations\\20251224095855_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251224095855_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|c:\\users\\asus\\desktop\\proniabpa203\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\Desktop\\ProniaBpa203\\Migrations\\20251217063537_Change.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251217063537_Change.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|c:\\users\\asus\\desktop\\proniabpa203\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|solutionrelative:models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\Desktop\\ProniaBpa203\\Migrations\\20251217063136_CreateTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251217063136_CreateTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\Desktop\\ProniaBpa203\\Migrations\\20251217062015_CreateTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251217062015_CreateTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|c:\\users\\asus\\desktop\\proniabpa203\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|c:\\users\\asus\\onedrive\\desktop\\bpa-203\\35.servicelifetime, appsetting, product\\proniabpa203\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|c:\\users\\asus\\desktop\\proniabpa203\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|c:\\users\\asus\\desktop\\proniabpa203\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|solutionrelative:models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|c:\\users\\asus\\desktop\\proniabpa203\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|c:\\users\\asus\\desktop\\proniabpa203\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|c:\\users\\asus\\desktop\\proniabpa203\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|c:\\users\\asus\\desktop\\proniabpa203\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|c:\\users\\asus\\desktop\\proniabpa203\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|solutionrelative:views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|c:\\users\\asus\\desktop\\proniabpa203\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|c:\\users\\asus\\desktop\\proniabpa203\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|c:\\users\\asus\\onedrive\\desktop\\bpa-203\\35.servicelifetime, appsetting, product\\proniabpa203\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\Desktop\\ProniaBpa203\\Migrations\\20251217044130_CreateDatabaseAndSliderModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251217044130_CreateDatabaseAndSliderModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\35.ServiceLifeTime, AppSetting, Product\\ProniaBpa203\\Migrations\\20251224095724_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251224095724_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|c:\\users\\asus\\onedrive\\desktop\\bpa-203\\35.servicelifetime, appsetting, product\\proniabpa203\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|solutionrelative:views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|c:\\users\\asus\\onedrive\\desktop\\bpa-203\\35.servicelifetime, appsetting, product\\proniabpa203\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67CD9983-B340-465C-8CBA-8CCB6677477C}|ProniaBpa203.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,225 +34,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20251217063537_Change.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Migrations\\20251217063537_Change.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251217063537_Change.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Migrations\\20251217063537_Change.cs",
-              "RelativeToolTip": "Migrations\\20251217063537_Change.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T06:35:37.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "20251217063136_CreateTables.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Migrations\\20251217063136_CreateTables.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251217063136_CreateTables.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Migrations\\20251217063136_CreateTables.cs",
-              "RelativeToolTip": "Migrations\\20251217063136_CreateTables.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T06:31:36.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20251217062015_CreateTables.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Migrations\\20251217062015_CreateTables.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251217062015_CreateTables.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Migrations\\20251217062015_CreateTables.cs",
-              "RelativeToolTip": "Migrations\\20251217062015_CreateTables.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T06:20:15.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductImage.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Models\\ProductImage.cs",
-              "RelativeDocumentMoniker": "Models\\ProductImage.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Models\\ProductImage.cs",
-              "RelativeToolTip": "Models\\ProductImage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T06:12:29.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T05:02:54.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T04:58:40.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20251217044130_CreateDatabaseAndSliderModel.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Migrations\\20251217044130_CreateDatabaseAndSliderModel.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251217044130_CreateDatabaseAndSliderModel.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Migrations\\20251217044130_CreateDatabaseAndSliderModel.cs",
-              "RelativeToolTip": "Migrations\\20251217044130_CreateDatabaseAndSliderModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T04:41:30.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T04:19:02.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Models\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Models\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Models\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "Models\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T04:07:22.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Models\\Slider.cs",
-              "RelativeDocumentMoniker": "Models\\Slider.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Models\\Slider.cs",
-              "RelativeToolTip": "Models\\Slider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T03:52:18.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Views\\Shop\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\35.ServiceLifeTime, AppSetting, Product\\ProniaBpa203\\Views\\Shop\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Shop\\Index.cshtml",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\35.ServiceLifeTime, AppSetting, Product\\ProniaBpa203\\Views\\Shop\\Index.cshtml",
               "RelativeToolTip": "Views\\Shop\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-17T03:48:37.818Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ShopController.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Controllers\\ShopController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Controllers\\ShopController.cs",
-              "RelativeToolTip": "Controllers\\ShopController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\35.ServiceLifeTime, AppSetting, Product\\ProniaBpa203\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\35.ServiceLifeTime, AppSetting, Product\\ProniaBpa203\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T03:47:40.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-17T03:35:01.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-17T03:34:07.577Z",
+              "WhenOpened": "2025-12-24T09:59:02.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAMgAAAAAAAAAAAAgwNIAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-17T03:33:40.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwBYAAAAhAAAAAAAAAA==",
+              "Title": "20251224095855_firstmig.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\35.ServiceLifeTime, AppSetting, Product\\ProniaBpa203\\Migrations\\20251224095855_firstmig.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251224095855_firstmig.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\35.ServiceLifeTime, AppSetting, Product\\ProniaBpa203\\Migrations\\20251224095855_firstmig.cs",
+              "RelativeToolTip": "Migrations\\20251224095855_firstmig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T03:32:16.54Z",
+              "WhenOpened": "2025-12-24T09:58:56.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
+              "Title": "20251224095724_test.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\35.ServiceLifeTime, AppSetting, Product\\ProniaBpa203\\Migrations\\20251224095724_test.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251224095724_test.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\35.ServiceLifeTime, AppSetting, Product\\ProniaBpa203\\Migrations\\20251224095724_test.cs",
+              "RelativeToolTip": "Migrations\\20251224095724_test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T09:57:24.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\35.ServiceLifeTime, AppSetting, Product\\ProniaBpa203\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\35.ServiceLifeTime, AppSetting, Product\\ProniaBpa203\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T03:35:01.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\35.ServiceLifeTime, AppSetting, Product\\ProniaBpa203\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\ProniaBpa203\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\35.ServiceLifeTime, AppSetting, Product\\ProniaBpa203\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T03:29:09.827Z",
               "EditorCaption": ""

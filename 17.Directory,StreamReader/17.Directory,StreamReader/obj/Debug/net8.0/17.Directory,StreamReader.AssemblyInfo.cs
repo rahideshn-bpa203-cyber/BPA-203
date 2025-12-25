@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("17.Directory,StreamReader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+206a41023045dc5f69e28f99deb87c291c7427fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b29058fa730c75dacc8163ccdc6b0607e905c69a")]
 [assembly: System.Reflection.AssemblyProductAttribute("17.Directory,StreamReader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("17.Directory,StreamReader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
