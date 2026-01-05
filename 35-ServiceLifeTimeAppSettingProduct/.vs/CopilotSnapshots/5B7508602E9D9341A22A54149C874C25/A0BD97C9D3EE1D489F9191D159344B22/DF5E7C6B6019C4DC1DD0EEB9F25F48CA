@@ -1,0 +1,41 @@
+﻿@model _35_ServiceLifeTimeAppSettingProductn.Models.Slider
+
+@{
+    ViewData["Title"] = "Slider Details";
+}
+
+<div class="container mt-4">
+    <h2>@ViewData["Title"]</h2>
+
+    <div class="card mb-3" style="max-width: 900px;">
+        <div class="row g-0">
+            <div class="col-md-4">
+                @if (!string.IsNullOrEmpty(Model?.ImageURL))
+                {
+                    <img src="~/@Model.ImageURL" class="img-fluid rounded-start" alt="@Model?.Title" />
+                }
+                else
+                {
+                    <div class="d-flex align-items-center justify-content-center" style="height:200px;background:#f1f1f1;">
+                        <span class="text-muted">No image</span>
+                    </div>
+                }
+            </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h3 class="card-title">@Model?.Title</h3>
+                    <h5 class="text-muted">@Model?.SubTitle</h5>
+                    <p class="card-text">@Model?.Description</p>
+
+                    <ul class="list-unstyled">
+                        <li><strong>Order:</strong> @Model?.Order</li>
+                        <li><strong>Created:</strong> @Model?.Created.ToString("yyyy-MM-dd HH:mm")</li>
+                        <li><strong>Deleted:</strong> @(Model?.IsDeleted == true ? "Yes" : "No")</li>
+                    </ul>
+
+                    <a class="btn btn-secondary" href="@Url.Action("Index", "Dashboard", new { area = "AdminPanel" })">Back to list</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,69 @@
+﻿@using _35_ServiceLifeTimeAppSettingProductn.Models
+
+@model Slider
+
+
+
+<div class="row">
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Slider Table</h4>
+                <a asp-action="create" class="btn btn-success">Create</a>
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>
+                                    №
+                                </th>
+                                <th>
+                                    Image
+                                </th>
+                                <th>
+                                    Title
+                                </th>
+                                <th>
+                                    Order
+                                </th>
+                                <th>
+                                    Setting
+                                </th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                           
+                             
+                               
+                                        <img style="width:50px; height:50px" src="~/assets/images/website-images/@Model.ImageURL" />
+                                    </td>
+                                    <td>
+                                        <p>@Model.Title</p>
+                                    </td>
+                                    <td>
+                                   <p>@Model.Order</p>
+                                    </td>
+                                    <td>
+                                 <a class="btn btn-warning" asp-action="update" asp-route-id="@Model.Id"><i class="mdi mdi-pencil-box"></i></a>
+
+                                  <a class="btn btn-danger" asp-action="delete" asp-route-id="@Model.Id"><i class="mdi mdi-delete-forever"></i></a>
+                                  <a class="btn btn-primary" asp-controller="Dashboard" asp-route-id="@Model.Id" asp-action="Details"><i class="mdi mdi-information"></i></a>
+
+
+                                    </td>
+
+                                </tr>
+                            }
+
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
