@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\OneDrive\\Desktop\\35-ServiceLifeTimeAppSettingProduct\\35-ServiceLifeTimeAppSettingProduct\\35-ServiceLifeTimeAppSettingProduct.csproj": {}
+    "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\35-ServiceLifeTimeAppSettingProduct\\35-ServiceLifeTimeAppSettingProduct\\35-ServiceLifeTimeAppSettingProduct.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\OneDrive\\Desktop\\35-ServiceLifeTimeAppSettingProduct\\35-ServiceLifeTimeAppSettingProduct\\35-ServiceLifeTimeAppSettingProduct.csproj": {
+    "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\35-ServiceLifeTimeAppSettingProduct\\35-ServiceLifeTimeAppSettingProduct\\35-ServiceLifeTimeAppSettingProduct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\35-ServiceLifeTimeAppSettingProduct\\35-ServiceLifeTimeAppSettingProduct\\35-ServiceLifeTimeAppSettingProduct.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\35-ServiceLifeTimeAppSettingProduct\\35-ServiceLifeTimeAppSettingProduct\\35-ServiceLifeTimeAppSettingProduct.csproj",
         "projectName": "35-ServiceLifeTimeAppSettingProduct",
-        "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\35-ServiceLifeTimeAppSettingProduct\\35-ServiceLifeTimeAppSettingProduct\\35-ServiceLifeTimeAppSettingProduct.csproj",
+        "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\35-ServiceLifeTimeAppSettingProduct\\35-ServiceLifeTimeAppSettingProduct\\35-ServiceLifeTimeAppSettingProduct.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\35-ServiceLifeTimeAppSettingProduct\\35-ServiceLifeTimeAppSettingProduct\\obj\\",
+        "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\BPA-203\\35-ServiceLifeTimeAppSettingProduct\\35-ServiceLifeTimeAppSettingProduct\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.22, )"
